@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = renzo.carrasco@alum.udep.edu.pe
+	name = renzo.carrasco@alum.udep.edu.pe
